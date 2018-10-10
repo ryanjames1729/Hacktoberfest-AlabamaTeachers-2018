@@ -4,7 +4,7 @@
 def getMyName():
   return "Ryan James"
  
-for in range(4):
+for i in range(4):
   print("Ryan James")
  
 name = getMyName()
